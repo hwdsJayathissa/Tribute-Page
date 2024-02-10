@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: darkgray;
+}
+
+.img-1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    box-shadow: -8px -8px 15px rgb(20, 29, 46),5px 5px 15px rgb(12, 25, 50) ;
+
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    color: black;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+
+p{
+    font-size: 25px;
+    font-weight: bolder;
+    color: azure;
+}
+.container{
+    background-image: url(third.jpeg);
+    width: 75%;
+    height: 100%;
+    background-size: cover;
+    padding: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -8px -8px 15px rgb(20, 29, 46),5px 5px 15px rgb(12, 25, 50) ;
+}
